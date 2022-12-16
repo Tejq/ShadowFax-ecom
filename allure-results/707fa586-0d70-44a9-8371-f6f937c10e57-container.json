@@ -1,0 +1,1 @@
+{"uuid":"707fa586-0d70-44a9-8371-f6f937c10e57","name":"Suite","children":["65c8b870-324f-4d14-8117-3c5b4803625c"],"befores":[{"name":"initTestData","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662012318532,"stop":1662012318543}],"afters":[],"links":[],"start":1662012318497,"stop":1662012672047}

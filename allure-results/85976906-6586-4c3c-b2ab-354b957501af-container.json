@@ -1,0 +1,1 @@
+{"uuid":"85976906-6586-4c3c-b2ab-354b957501af","name":"com.shadowfax.test.LoginTest","children":["b9523d96-7485-43fc-9c1f-1dc7b270d686"],"befores":[{"name":"initClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1660646958042,"stop":1660646958045}],"afters":[],"links":[],"start":1660646958013,"stop":1660646958458}
